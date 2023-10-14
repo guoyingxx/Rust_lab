@@ -1,0 +1,11 @@
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\actix_codec-a1c9ede0e78e6bc8.rmeta: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src/lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\bcodec.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_read.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_write.rs
+
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\libactix_codec-a1c9ede0e78e6bc8.rlib: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src/lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\bcodec.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_read.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_write.rs
+
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\actix_codec-a1c9ede0e78e6bc8.d: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src/lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\bcodec.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_read.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_write.rs
+
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src/lib.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\bcodec.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_read.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.1.2\src\framed_write.rs:

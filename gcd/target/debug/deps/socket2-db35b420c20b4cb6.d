@@ -1,0 +1,11 @@
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\socket2-db35b420c20b4cb6.rmeta: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\libsocket2-db35b420c20b4cb6.rlib: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\socket2-db35b420c20b4cb6.d: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs:

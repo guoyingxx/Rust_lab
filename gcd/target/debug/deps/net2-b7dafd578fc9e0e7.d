@@ -1,0 +1,12 @@
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\net2-b7dafd578fc9e0e7.rmeta: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\huawei\Desktop\Rust\gcd\target\debug\deps\net2-b7dafd578fc9e0e7.d: C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs
+
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\lib.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\tcp.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\udp.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\socket.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\ext.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\utils.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\mod.rs:
+C:\Users\huawei\.cargo\registry\src\index.crates.io-6f17d22bba15001f\net2-0.2.39\src\sys\windows\impls.rs:
